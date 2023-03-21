@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notes taking app</title>
+</head>
+<center>
+
+    <body>
+        <div>
+            <form action="/" method="POST">
+                <input type="text" name="note" placeholder="Enter a note">
+                <button>Add Note</button>
+            </form>
+        </div>
+        <br>
+        <div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">No</th>
+                        <th scope="col">Note</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for note in notes %}
+                    <tr>
+                        <th scope="row">{{loop.index}}</th>
+                        <td>{{ note }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </body>
+</center>
+
+</html>

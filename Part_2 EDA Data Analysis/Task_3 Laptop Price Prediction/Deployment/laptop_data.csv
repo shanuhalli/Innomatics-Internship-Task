@@ -1,0 +1,403 @@
+Brand,OS,Generation,Processor,RAM_Type,RAM_Size,SSD,HDD,Display,MRP
+Lenovo,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,35.56,36990
+Lenovo,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,39990
+ASUS,Windows 11,10th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,32990
+HP,Windows 10,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,49990
+ASUS,Windows 11,10th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,49990
+HP,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,35.56,36990
+DELL,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,1024,39.62,38990
+RedmiBook,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,39990
+realme,Windows 10,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,35.56,46990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Quad Core Processor,DDR4,16,512,0,35.56,44990
+HP,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,59990
+Lenovo,Windows 11,Undefine,AMD Ryzen 5 Quad Core Processor,DDR4,8,512,0,39.62,38705
+ASUS,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,39.62,32990
+ASUS,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,43.94,52990
+acer,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,39.62,29990
+ASUS,Windows 11,Undefine,AMD Ryzen 9 Octa Core Processor,DDR5,16,1024,0,39.62,196990
+ASUS,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,256,1024,39.62,47990
+ASUS,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,45990
+MSI,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,47990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,1024,0,39.62,85990
+APPLE,Mac OS,Undefine,Apple M1 Processor,DDR4,8,256,0,33.78,88990
+HP,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,35.56,40990
+Lenovo,DOS,Undefine,Intel Celeron Dual Core Processor,DDR4,4,256,256,39.62,19490
+Lenovo,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,512,0,39.62,35590
+HP,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,65990
+acer,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,58990
+acer,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,256,0,39.62,24990
+acer,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,47990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,8,512,0,43.94,73990
+Lenovo,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,53490
+ASUS,Windows 11,Undefine,AMD Ryzen 9 Octa Core Processor,DDR4,16,1024,0,39.62,150990
+Lenovo,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,51990
+ASUS,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,16,512,0,35.56,66990
+ASUS,Windows 11,Undefine,AMD Ryzen 9 Octa Core Processor,DDR5,16,1024,0,39.62,194990
+acer,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,16,512,0,39.62,51990
+HP,Windows 11,Undefine,AMD Athlon Dual Core Processor,DDR4,8,256,0,35.56,25990
+acer,Windows 11,Undefine,AMD Ryzen 5 Quad Core Processor,DDR4,8,512,0,39.62,35990
+ASUS,Windows 11,10th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,43990
+Lenovo,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,44990
+Lenovo,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,64490
+ASUS,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,39.62,40990
+ASUS,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,35.56,38990
+HP,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,58990
+realme,Windows 10,11th Gen,Intel Evo Core i5 Processor,DDR4,8,512,0,35.56,59990
+acer,Windows 10,10th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,47990
+HP,Windows 11,Undefine,AMD Ryzen 3 Quad Core Processor,DDR4,8,512,0,39.62,37499
+ASUS,Windows 10,Undefine,AMD Ryzen 9 Octa Core Processor,DDR4,8,1024,0,35.56,94990
+ASUS,Windows 11,Undefine,Intel Celeron Dual Core Processor,DDR4,4,256,0,35.56,23990
+HP,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,16,512,0,35.56,48990
+APPLE,Mac OS,Undefine,Apple M2 Processor,RAMMac,8,512,0,33.78,139990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,512,0,39.62,89990
+ASUS,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,1024,0,39.62,59990
+DELL,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,16,512,0,39.62,70990
+Infinix,Windows 11,Undefine,Intel Celeron Quad Core Processor,LPDDR4X,8,256,0,35.56,22990
+HP,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,46990
+ASUS,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,8,256,1024,39.62,50990
+Infinix,Windows 11,10th Gen,Intel Core i3 Processor,LPDDR4X,8,256,0,35.56,28990
+MSI,Windows 10,11th Gen,Intel Core i7 Processor,DDR4,16,512,0,39.62,84990
+APPLE,Mac OS,Undefine,Apple M1 Pro Processor,RAMMac,16,512,0,36.07,181990
+MSI,Windows 11,Undefine,AMD Ryzen 9 Octa Core Processor,DDR4,16,1024,0,39.62,109990
+Infinix,Windows 11,10th Gen,Intel Core i5 Processor,LPDDR4X,16,512,0,35.56,37990
+APPLE,Mac OS,Undefine,Apple M2 Processor,RAMMac,8,512,0,34.54,139990
+Lenovo,Windows 11,10th Gen,Intel Core i3 Processor,DDR4,4,256,0,39.62,29990
+Lenovo,Chrome,Undefine,Intel Celeron Dual Core Processor,DDR4,4,0,0,35.56,19490
+Lenovo,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,8,512,0,39.62,73490
+ASUS,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,256,1024,39.62,52990
+HP,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,41890
+DELL,Windows 11,Undefine,Intel Pentium Silver Processor,DDR4,8,256,0,39.62,30428
+acer,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,34990
+MSI,Windows 10,11th Gen,Intel Core i7 Processor,DDR4,8,512,0,39.62,65990
+ASUS,Windows 11,10th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,33490
+HP,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,16,512,0,35.56,60990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,512,0,39.62,59990
+MSI,Windows 10,11th Gen,Intel Core i7 Processor,DDR4,16,1024,0,39.62,114990
+ASUS,Windows 10,11th Gen,Intel Core i7 Processor,DDR4,16,1024,0,40.64,119990
+Infinix,Windows 11,11th Gen,Intel Core i5 Processor,LPDDR4X,8,512,0,39.62,42990
+ASUS,Windows 11,12th Gen,Intel Core i5 Processor,DDR5,16,512,0,39.62,89990
+MSI,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,8,512,0,39.62,79990
+ASUS,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,1024,0,39.62,70990
+Lenovo,Windows 11,10th Gen,Intel Core i3 Processor,DDR4,8,256,0,39.62,33900
+Infinix,Windows 11,11th Gen,Intel Core i7 Processor,LPDDR4X,16,512,0,39.62,52990
+APPLE,Mac OS,Undefine,Apple M1 Processor,DDR4,16,512,0,33.78,124990
+RedmiBook,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,39.62,31990
+acer,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,16,512,0,39.62,66990
+DELL,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,512,0,39.62,89081
+APPLE,Mac OS,Undefine,Apple M1 Processor,DDR4,8,512,0,33.78,104990
+Lenovo,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,53490
+ASUS,Windows 11,11th Gen,Intel Core i3 Processor,LPDDR4X,8,256,0,35.56,45990
+ASUS,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,45990
+MSI,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,51990
+HP,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,512,0,39.62,75990
+Lenovo,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,39.62,36990
+HP,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,35.56,78800
+HP,Windows 11,Undefine,AMD Athlon Dual Core Processor,DDR4,8,512,0,39.62,29390
+Infinix,Windows 11,10th Gen,Intel Core i3 Processor,LPDDR4X,8,256,0,35.56,30990
+Lenovo,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,62490
+ASUS,Windows 11,12th Gen,Intel Core i7 Processor,DDR4,16,512,0,35.56,89990
+HP,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,58899
+MSI,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,85990
+Lenovo,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,256,1024,39.62,63490
+ASUS,Windows 11,Undefine,AMD Ryzen 5 Quad Core Processor,DDR4,8,512,0,35.56,38990
+HP,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,40.89,67990
+HP,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,39790
+APPLE,Mac OS,Undefine,Apple M1 Pro Processor,RAMMac,16,1024,0,41.15,241990
+DELL,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,512,0,35.56,42190
+ASUS,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,35.56,39990
+ASUS,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,16,1024,0,39.62,99990
+APPLE,Mac OS,Undefine,Apple M1 Max Processor,RAMMac,32,1024,0,41.15,309490
+ASUS,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,16,256,1024,39.62,64990
+ASUS,Windows 10,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,512,0,43.94,85990
+APPLE,Mac OS,Undefine,Apple M1 Pro Processor,RAMMac,16,1024,0,36.07,222990
+Ultimus,DOS,Undefine,Intel Celeron Dual Core Processor,DDR4,4,128,0,35.81,15990
+DELL,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,1024,39.62,45900
+ASUS,Windows 11,11th Gen,Intel Core i7 Processor,LPDDR4X,16,512,0,33.78,79990
+ASUS,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,8,512,0,35.56,56990
+DELL,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,256,0,39.62,34990
+DELL,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,43580
+Lenovo,Windows 10,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,16,512,0,33.78,74990
+Lenovo,Windows 10,10th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,37490
+Infinix,Windows 11,Undefine,Intel Celeron Quad Core Processor,LPDDR4X,4,128,0,35.56,20990
+MSI,Windows 11,12th Gen,Intel Core i7 Processor,DDR4,16,512,0,39.62,109990
+ASUS,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,33.78,71990
+Infinix,Windows 11,10th Gen,Intel Core i3 Processor,LPDDR4X,8,512,0,35.56,32990
+MSI,Windows 10,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,35.56,43990
+acer,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,256,0,35.56,25990
+ASUS,Windows 10,11th Gen,Intel Core i9 Processor,DDR4,16,1024,0,39.62,122990
+acer,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,68990
+acer,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,59990
+acer,Windows 10,Undefine,AMD Ryzen 5 Quad Core Processor,DDR4,8,512,0,39.62,39990
+ASUS,Windows 10,10th Gen,Intel Core i3 Processor,DDR4,8,0,1024,39.62,37990
+Lenovo,Windows 10,Undefine,Intel Celeron Dual Core Processor,DDR4,4,256,0,35.56,25950
+realme,Windows 11,11th Gen,Intel Core i5 Processor,LPDDR4X,16,512,0,35.56,64999
+HP,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,60990
+ASUS,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,36990
+SAMSUNG,Windows 11,12th Gen,Intel Core i5 Processor,LPDDR4X,8,256,0,39.62,59990
+APPLE,Mac OS,Undefine,Apple M1 Pro Processor,RAMMac,16,512,0,41.15,222990
+DELL,Windows 11,12th Gen,Intel Core i9 Processor,DDR5,16,1024,0,39.62,235283
+DELL,Windows 11,10th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,38990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,512,0,39.62,67990
+MSI,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,79990
+ASUS,Windows 11,12th Gen,Intel Core i9 Processor,DDR5,32,1024,0,40.64,241990
+ASUS,Windows 11,10th Gen,Intel Core i5 Processor,DDR4,8,512,0,35.56,43490
+Vaio,Windows 10,Undefine,AMD Ryzen 5 Quad Core Processor,DDR4,8,512,0,39.62,40990
+APPLE,Mac OS,Undefine,Apple M1 Processor,DDR4,8,256,0,33.78,94990
+APPLE,Mac OS,Undefine,Apple M2 Processor,RAMMac,8,256,0,33.78,121990
+ASUS,Windows 11,Undefine,Intel Pentium Silver Processor,DDR4,8,256,0,35.56,27990
+DELL,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,512,0,39.62,40190
+Lenovo,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,512,0,39.62,34990
+ASUS,Windows 10,11th Gen,Intel Core i7 Processor,LPDDR4X,16,1024,0,35.56,94990
+Lenovo,Windows 11,10th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,69990
+ASUS,Windows 11,10th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,59990
+ASUS,Windows 11,11th Gen,Intel Core i7 Processor,LPDDR4X,16,512,0,33.78,104990
+DELL,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,35.56,54900
+Lenovo,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,1024,0,40.64,136990
+DELL,Windows 11,Undefine,AMD Ryzen 5 Dual Core Processor,DDR4,8,512,0,39.62,48184
+ASUS,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,16,512,0,35.56,74990
+acer,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,60990
+HP,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,35.56,49990
+DELL,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,67990
+Lenovo,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,35.56,58000
+Infinix,Windows 11,10th Gen,Intel Core i3 Processor,LPDDR4X,8,256,0,35.56,29990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR5,16,1024,0,34.04,114990
+HP,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,512,0,39.62,33990
+ASUS,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,16,512,0,39.62,64990
+Lenovo,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,79990
+ASUS,Windows 11,Undefine,AMD Ryzen 5 Dual Core Processor,DDR4,8,512,0,39.62,56990
+HP,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,16,512,0,33.78,81990
+MSI,Windows 10,11th Gen,Intel Core i7 Processor,DDR4,16,1024,0,39.62,129990
+DELL,Windows 10,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,0,1024,39.62,38990
+HP,Windows 10,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,256,1024,39.62,79990
+ASUS,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,16,1024,0,43.94,109990
+ASUS,Windows 11,Undefine,AMD Ryzen 9 Octa Core Processor,DDR5,16,1024,0,39.62,154990
+Lenovo,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,62990
+ASUS,Windows 11,12th Gen,Intel Core i3 Processor,DDR4,8,512,0,35.56,47990
+DELL,Windows 11,Undefine,AMD Ryzen 3 Quad Core Processor,DDR4,8,512,0,39.62,43667
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR5,16,1024,0,39.62,135990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR5,16,512,0,39.62,98990
+Infinix,Windows 11,10th Gen,Intel Core i7 Processor,LPDDR4X,16,512,0,35.56,46990
+ASUS,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,35.56,35990
+DELL,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,8,512,0,35.56,74770
+HP,Windows 11,Undefine,AMD Ryzen 3 Quad Core Processor,DDR4,8,512,0,35.56,40799
+ASUS,Windows 10,10th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,69490
+ASUS,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR5,16,512,0,33.78,99990
+acer,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,40990
+HP,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,60390
+HP,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,8,256,1024,39.62,69990
+ASUS,Windows 11,12th Gen,Intel Core i3 Processor,DDR4,8,256,0,35.56,44990
+ASUS,Windows 11,10th Gen,Intel Core i5 Processor,DDR4,8,256,0,39.62,44990
+HP,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,16,512,0,39.62,55990
+Lenovo,Windows 11,11th Gen,Intel Core i5 Processor,LPDDR4X,16,512,0,35.56,74990
+ASUS,Windows 11,10th Gen,Intel Core i5 Processor,DDR4,8,1024,0,39.62,59990
+acer,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,62990
+MSI,Windows 10,9th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,58499
+Lenovo,Windows 10,10th Gen,Intel Core i5 Processor,DDR4,8,256,1024,39.62,65990
+DELL,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,16,512,0,39.62,111990
+Lenovo,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,68490
+ASUS,Windows 10,10th Gen,Intel Core i5 Processor,DDR4,8,0,1024,35.56,83990
+acer,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,54990
+ASUS,Chrome,Undefine,Intel Celeron Dual Core Processor,DDR4,4,0,0,29.46,14990
+APPLE,Mac OS,Undefine,Apple M1 Processor,DDR4,8,1024,0,33.78,149990
+MSI,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,16,1024,0,39.62,200000
+Lenovo,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,39.62,37390
+ASUS,Windows 11,11th Gen,Intel Core i5 Processor,LPDDR4X,8,512,0,35.56,63990
+DELL,Windows 10,10th Gen,Intel Core i3 Processor,DDR4,8,512,0,35.56,43090
+Lenovo,Windows 10,11th Gen,Intel Core i3 Processor,DDR4,4,256,0,39.62,44700
+HP,Windows 10,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,35.56,41150
+ASUS,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,256,0,39.62,33990
+MSI,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,16,1024,0,43.94,190890
+ASUS,Windows 11,12th Gen,Intel Core i9 Processor,DDR5,16,1024,0,34.04,174990
+HP,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,1024,0,40.89,118990
+ASUS,Windows 11,10th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,63980
+acer,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,54300
+DELL,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,256,0,39.62,36400
+ASUS,Windows 10,8th Gen,Intel Core i3 Processor,DDR4,4,256,0,39.62,28590
+DELL,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,16,512,0,40.64,69999
+ASUS,Windows 11,12th Gen,Intel Core i9 Processor,DDR5,32,1024,0,39.62,301990
+Lenovo,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,38.1,37000
+Lenovo,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,33.02,64990
+DELL,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,38.0,42690
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR5,16,1024,0,39.62,140990
+Lenovo,Windows 10,11th Gen,Intel Core i3 Processor,DDR4,4,256,0,38.1,38990
+HP,Windows 11,12th Gen,Intel Core i7 Processor,LPDDR4X,16,512,0,34.29,128990
+acer,Windows 11,12th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,54999
+acer,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,8,256,1024,39.62,60130
+acer,Windows 11,Undefine,Intel Pentium Silver Processor,DDR4,8,256,0,35.56,29490
+DELL,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,35.56,72490
+GIGABYTE,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,73990
+acer,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,8,0,1024,39.62,47130
+Lenovo,Windows 10,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,8,512,0,35.56,55600
+DELL,Windows 10,Undefine,AMD Ryzen 5 Quad Core Processor,DDR4,8,512,0,35.56,49690
+ASUS,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,32,1024,0,40.64,239990
+MSI,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,73990
+HP,Windows 10,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,35.56,52490
+HP,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,41990
+ASUS,Windows 11,Undefine,Intel Pentium Quad Core Processor,DDR4,8,256,0,35.56,29990
+Nokia,Windows 10,10th Gen,Intel Core i5 Processor,DDR4,8,512,0,35.56,50490
+acer,Windows 10,11th Gen,Intel Core i7 Processor,DDR4,16,512,1024,39.62,96490
+MSI,Windows 10,11th Gen,Intel Core i5 Processor,LPDDR4X,16,512,0,35.56,74990
+ASUS,Windows 10,10th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,51990
+ASUS,Windows 10,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,256,1024,39.62,71345
+ASUS,Windows 10,11th Gen,Intel Core i7 Processor,DDR4,16,1024,0,39.62,101490
+MSI,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,32,1024,0,39.62,274990
+ASUS,Windows 11,Undefine,AMD Ryzen 9 Octa Core Processor,DDR5,16,1024,0,39.62,199990
+DELL,Windows 10,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,35.56,41090
+Lenovo,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,8,256,0,39.62,50499
+HP,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,8,512,0,40.89,78950
+Lenovo,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,LPDDR4X,16,512,0,35.56,67990
+ASUS,Windows 11,Undefine,AMD Ryzen 9 Octa Core Processor,DDR4,16,1024,0,39.62,187990
+Lenovo,Windows 10,11th Gen,Intel Core i7 Processor,DDR4,16,1024,0,35.56,102990
+ASUS,DOS,11th Gen,Intel Core i3 Processor,DDR4,4,256,0,39.62,35990
+HP,Windows 10,Undefine,AMD Ryzen 5 Quad Core Processor,DDR4,8,512,0,39.62,52575
+DELL,Windows 11,Undefine,AMD Ryzen 5 Quad Core Processor,DDR4,8,512,0,39.62,50990
+Lenovo,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,60125
+Lenovo,Windows 10,Undefine,Intel Celeron Dual Core Processor,DDR4,4,256,0,29.46,26490
+HP,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,8,512,0,40.89,80249
+ASUS,Windows 10,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,8,1024,0,35.56,76990
+ASUS,Windows 10,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,36990
+MSI,Windows 10,11th Gen,Intel Core i7 Processor,DDR4,16,512,0,39.62,107790
+DELL,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,35.56,75990
+ASUS,Windows 10,11th Gen,Intel Core i5 Processor,LPDDR4X,16,512,0,35.56,95990
+acer,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,61999
+HP,Windows 11,Undefine,Intel Celeron Dual Core Processor,DDR4,8,256,0,35.56,28990
+Lenovo,Windows 10,10th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,54990
+ASUS,Windows 11,11th Gen,Intel Core i7 Processor,DDR4,16,512,0,39.62,56990
+ASUS,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,256,0,35.56,45990
+ASUS,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,35.81,38216
+MSI,Windows 11,12th Gen,Intel Core i7 Processor,DDR4,8,512,0,39.62,79990
+DELL,Windows 10,11th Gen,Intel Core i3 Processor,DDR4,4,256,1024,39.62,43990
+HP,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,1024,0,40.89,108250
+ASUS,Windows 10,10th Gen,Intel Core i3 Processor,DDR4,4,0,1024,39.62,28990
+MSI,Windows 11,12th Gen,Intel Core i9 Processor,DDR5,32,2048,0,43.94,389990
+DELL,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,67224
+acer,Windows 10,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,256,1024,39.62,114990
+ASUS,Windows 10,10th Gen,Intel Core i5 Processor,DDR4,4,0,1024,35.56,61249
+HP,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,69990
+Lenovo,DOS,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,35.56,69990
+Lenovo,Windows 10,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,256,0,39.62,37990
+Infinix,Windows 11,10th Gen,Intel Core i5 Processor,LPDDR4X,8,512,0,35.56,36990
+ASUS,Windows 11,Undefine,Intel Celeron Dual Core Processor,DDR4,4,128,0,29.46,29980
+DELL,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,512,0,39.62,41600
+ASUS,Windows 11,10th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,61986
+HP,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,256,0,39.62,38999
+Lenovo,Windows 11,10th Gen,Intel Core i3 Processor,DDR4,4,256,0,35.56,31990
+ASUS,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,46990
+Infinix,Windows 11,10th Gen,Intel Core i5 Processor,LPDDR4X,8,512,0,35.56,37990
+acer,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,256,1024,39.62,61490
+HP,Windows 10,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,1024,0,39.62,109990
+HP,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,54990
+Lenovo,Windows 10,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,35.56,50990
+MSI,Windows 10,9th Gen,Intel Core i5 Processor,DDR4,8,0,1024,39.62,62190
+ASUS,Chrome,Undefine,Intel Celeron Dual Core Processor,DDR4,4,0,0,39.62,24390
+Lenovo,Windows 11,10th Gen,Intel Core i3 Processor,DDR4,8,0,1024,39.62,36990
+HP,Windows 10,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,1024,0,39.62,159990
+ASUS,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,4,256,0,35.56,34490
+ASUS,Windows 11,10th Gen,AMD Ryzen 9 Octa Core Processor,DDR4,16,512,0,42.16,99990
+ASUS,Windows 11,11th Gen,Intel Core i5 Processor,LPDDR4X,8,512,0,33.78,79990
+HP,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,1024,39.62,41490
+DELL,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR5,16,1024,0,39.62,206581
+ASUS,Windows 11,10th Gen,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,59990
+acer,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,62990
+ASUS,Windows 10,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,256,1024,39.62,62990
+Lenovo,Windows 10,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,61990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR5,16,1024,0,39.62,105990
+acer,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,16,1024,0,39.62,155490
+Ultimus,Windows 11,Undefine,Intel Celeron Dual Core Processor,DDR4,4,128,0,35.81,19990
+Lenovo,Windows 10,10th Gen,Intel Core i3 Processor,DDR4,4,0,1024,39.62,33499
+HP,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,63990
+acer,Windows 11,11th Gen,Intel Core i9 Processor,DDR4,16,1024,0,39.62,124990
+ASUS,Windows 11,Undefine,Intel Celeron Dual Core Processor,DDR4,4,0,0,29.46,21990
+Lenovo,Windows 10,Undefine,Intel Celeron Dual Core Processor,DDR4,4,256,0,35.56,30100
+HP,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,32,1024,0,43.94,199990
+acer,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,256,1024,39.62,61130
+Lenovo,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,1024,39.62,40990
+ASUS,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,8,1024,0,39.62,75990
+HP,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,46890
+ASUS,Windows 11,Undefine,Intel Celeron Dual Core Processor,DDR4,4,0,0,29.46,19990
+DELL,Windows 11,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,59790
+MSI,Windows 11,12th Gen,Intel Core i9 Processor,DDR4,16,1024,0,39.62,125990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR5,32,2048,0,40.64,249990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR5,16,1024,0,39.62,149990
+DELL,Windows 11,Undefine,Intel Pentium Quad Core Processor,DDR4,8,256,0,39.62,36990
+ASUS,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,85990
+HP,Windows 10,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,8,512,0,35.56,60990
+DELL,Windows 11,12th Gen,Intel Core i5 Processor,DDR5,8,512,0,39.62,87900
+Lenovo,Windows 10,Undefine,AMD Dual Core Processor,DDR4,4,0,1024,39.62,27490
+HP,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,0,1024,35.56,28999
+acer,Windows 10,11th Gen,Intel Core i7 Processor,DDR4,16,512,1024,39.62,117990
+DELL,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,8,256,1024,39.62,61497
+HP,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,40.89,70400
+Lenovo,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,35.56,69000
+HP,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR5,8,512,0,40.89,96579
+DELL,Windows 11,11th Gen,Intel Core i7 Processor,DDR4,16,512,0,39.62,101990
+HP,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR5,8,512,0,40.89,94990
+MSI,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,32,2048,0,43.94,314990
+DELL,Windows 11,11th Gen,Intel Core i3 Processor,DDR4,8,256,1024,38.1,46900
+ASUS,Windows 11,12th Gen,Intel Core i9 Processor,DDR5,32,2048,0,40.64,331990
+DELL,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,16,1024,0,39.62,116490
+HP,Windows 10,Undefine,AMD Ryzen 3 Hexa Core Processor,DDR4,8,512,0,39.62,64590
+DELL,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,16,1024,0,39.62,137990
+DELL,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,35.56,55690
+Lenovo,Windows 10,11th Gen,Intel Core i7 Processor,DDR4,16,512,0,39.62,109990
+ASUS,Windows 10,11th Gen,Intel Core i7 Processor,DDR4,8,256,1024,39.62,79990
+ASUS,Windows 11,9th Gen,AMD Ryzen 9 Octa Core Processor,DDR4,16,1024,0,40.64,130500
+ASUS,Windows 11,Undefine,AMD Ryzen 9 Octa Core Processor,DDR5,32,2048,0,40.64,361990
+ASUS,Windows 11,Undefine,AMD Ryzen 9 Octa Core Processor,DDR5,16,1024,0,40.64,211990
+DELL,Windows 10,10th Gen,Intel Core i3 Processor,DDR4,4,256,0,38.1,39890
+MSI,Windows 11,12th Gen,Intel Core i7 Processor,DDR4,16,1024,0,39.62,139990
+MSI,Windows 10,10th Gen,Intel Core i7 Processor,DDR4,16,256,1024,39.62,99990
+HP,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,35.56,66700
+DELL,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,8,256,1024,39.62,68990
+DELL,Windows 11,11th Gen,Intel Core i9 Processor,DDR4,32,1024,0,43.94,434830
+ALIENWARE,Windows 10,10th Gen,Intel Core i9 Processor,DDR4,32,1024,0,39.62,345390
+HP,Windows 11,12th Gen,Intel Core i7 Processor,DDR4,16,512,0,39.62,105822
+Lenovo,Chrome,Undefine,Intel Celeron Dual Core Processor,LPDDR4X,4,0,0,29.46,28490
+Lenovo,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,39.62,66990
+acer,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,86999
+ASUS,Windows 10,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,39.62,36990
+Lenovo,Windows 11,Undefine,Intel Celeron Dual Core Processor,DDR4,4,256,0,29.46,23250
+DELL,Windows 10,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,35.56,42390
+Lenovo,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,8,512,0,35.56,58990
+ASUS,Windows 10,8th Gen,Intel Core i7 Processor,DDR4,16,1024,0,39.62,110990
+DELL,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,71990
+Lenovo,Windows 10,11th Gen,Intel Core i5 Processor,DDR4,16,512,0,35.56,84990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR5,16,1024,0,33.78,119990
+MSI,Windows 10,10th Gen,Intel Core i7 Processor,DDR4,32,1024,0,39.62,214990
+MSI,Windows 10,11th Gen,Intel Core i3 Processor,DDR4,8,512,0,35.56,48790
+DELL,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,512,0,40.64,76000
+ASUS,Windows 10,Undefine,AMD Ryzen 9 Octa Core Processor,LPDDR4X,32,1024,0,34.04,224990
+Infinix,Windows 11,11th Gen,Intel Core i3 Processor,LPDDR4X,8,512,0,39.62,49990
+ASUS,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,16,512,0,34.04,164990
+HP,Windows 11,Undefine,AMD Ryzen 3 Dual Core Processor,DDR4,8,256,0,39.62,31490
+DELL,Windows 11,12th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,48077
+ASUS,Windows 10,Undefine,AMD Ryzen 9 Octa Core Processor,DDR4,16,1024,0,39.62,154990
+ASUS,Windows 10,10th Gen,Intel Core i7 Processor,DDR4,32,1024,0,39.62,224990
+ASUS,Windows 10,10th Gen,Intel Core i5 Processor,DDR4,8,0,1024,39.62,44990
+ASUS,Windows 10,10th Gen,Intel Core i5 Processor,DDR4,8,512,0,39.62,65990
+ASUS,Windows 10,10th Gen,Intel Core i3 Processor,DDR4,8,0,1024,35.81,31990
+Lenovo,Windows 10,10th Gen,Intel Core i3 Processor,DDR4,8,256,0,35.56,38980
+HP,Windows 10,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,68990
+DELL,Windows 10,11th Gen,Intel Core i3 Processor,DDR4,8,256,0,39.62,43090
+DELL,Windows 11,12th Gen,Intel Core i3 Processor,DDR4,8,512,0,39.62,49348
+DELL,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,16,512,0,39.62,221774
+Lenovo,Windows 10,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,39.62,73990
+DELL,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,512,0,40.64,77990
+ALIENWARE,Windows 10,10th Gen,Intel Core i7 Processor,DDR4,16,1024,0,39.62,214790
+ALIENWARE,Windows 10,10th Gen,Intel Core i7 Processor,DDR4,16,512,0,39.62,199990
+DELL,Windows 11,Undefine,AMD Ryzen 5 Hexa Core Processor,DDR4,8,512,0,35.56,52414
+ASUS,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,16,1024,0,40.64,179990
+ASUS,Chrome,Undefine,Intel Celeron Dual Core Processor,DDR4,4,0,0,35.56,25990
+DELL,Windows 11,12th Gen,Intel Core i5 Processor,DDR4,16,512,0,35.56,80615
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR5,16,1024,0,39.62,155990
+Infinix,Windows 11,10th Gen,Intel Core i7 Processor,LPDDR4X,16,512,0,35.56,49990
+Lenovo,Windows 11,11th Gen,Intel Core i7 Processor,DDR4,16,1024,0,40.64,157990
+ASUS,Windows 11,12th Gen,Intel Core i5 Processor,DDR5,16,512,0,39.62,92990
+ASUS,Windows 11,Undefine,AMD Ryzen 7 Octa Core Processor,DDR5,16,1024,0,40.64,171990
+ASUS,Windows 11,Undefine,AMD Ryzen 9 Octa Core Processor,DDR5,16,1024,0,34.04,151990
+ASUS,Windows 10,10th Gen,Intel Core i7 Processor,LPDDR3,16,2048,0,35.56,233990
+DELL,Windows 11,12th Gen,Intel Core i5 Processor,DDR5,16,512,0,33.78,76590
+HP,Windows 10,Undefine,AMD Ryzen 7 Octa Core Processor,DDR4,16,512,0,39.62,90000
+ASUS,Chrome,Undefine,Intel Celeron Dual Core Processor,DDR4,4,0,0,29.46,23490
+ASUS,Windows 11,12th Gen,Intel Core i7 Processor,DDR5,16,512,0,35.56,125990
+Lenovo,Windows 10,10th Gen,Intel Core i5 Processor,DDR4,8,256,1024,39.62,50990
